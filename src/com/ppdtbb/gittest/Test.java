@@ -7,4 +7,8 @@ public class Test {
 		System.out.println("master-later");
 	}
 	
+	public static void develop() {
+		System.out.println("develop");
+	}
+	
 }
