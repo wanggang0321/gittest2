@@ -6,4 +6,8 @@ public class Test {
 		System.out.println("master-master");
 	}
 	
+	public static void develop() {
+		System.out.println("develop");
+	}
+	
 }
